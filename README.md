@@ -18,6 +18,4 @@ The owner and/or developer has the right to declare the license agreement invali
 All Licensed Files will have a notice in the header of the file stating that they are covered by this License.
 Files which are older than the update of the file affiliation automatically fall under the terms of this license.
 
-Source code or "code snippets" from other sources are marked accordingly. Reuse and/or further use must be clarified with the author and/or owner of the source code.
-
-Translated with www.DeepL.com/Translator (free version)
+Source code or "code snippets" from other sources are marked accordingly. Reuse and/or further use must be clarified with the author and/or owner of the source code
