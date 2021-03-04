@@ -13,6 +13,6 @@ Einzelde Ausnahmen, müssen schriftlich mit Nachweis, besprochen und genemigt we
 Der Inhaber und/oder Entwickler hat das Recht, den Lizenzvertrag wenn nicht anders abgeklärt schriftlich als ungültig zu erklären (Änderungen und/oder Aktualisierungen, treten nach 12 Stunden, nach der Änderung in Kraft).
 
 Alle Lizensierten Dateien, tragen einen Hinweis auf die Zugehörigkeit zu dieser Lizenz in der Kopfzeile.
-Dateien welche älter, als die Aktualisierung der Dateizugehörigkeit sind, fallen automatisch in die Rahmbedingungen dieser Lizenz.
+Dateien welche älter, als das License update sind, fallen automatisch in die Rahmbedingungen dieser Lizenz.
 
 Quellcode oder auch "Codesnippets", welche von anderen Quellen stammen, sind dementsprechend makiert. Wiederverwendung und/oder weiteres, müssen mit dem Urheber und/oder Inhaber des Quellcodes abgeklärt werden.
