@@ -16,5 +16,3 @@ All Licensed Files will have a notice in the header of the file stating that the
 Files which are older than the license update automatically fall under the terms of this license.
 
 Source code or "code snippets" from other sources are marked accordingly. Reuse and/or further use must be clarified with the author and/or owner of the source code.
-
-Translated with www.DeepL.com/Translator (free version)
