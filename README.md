@@ -9,7 +9,8 @@ New License for all Projects and Filetypes
 
 The use, of the source code (and all other files), for security checks and/or improvements is free of charge and is guaranteed by the owner and/or developer.
 
-Changing, adapting, copying, cutting and/or reusing the written source code (and all other files) is prohibited! 
+Changing, adapting, copying, cutting and/or reusing the written source code (and all other files) 
+for purposes other than mentioned above is prohibited!
 Unless clarified and confirmed in writing, by a license agreement from the owner and/or developer.
 Individual exceptions must be discussed and approved in writing with proof.
 
