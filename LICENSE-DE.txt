@@ -6,7 +6,8 @@
 
 Das Nutzen, des Quellcodes (und allen anderen Dateien), für sicherheitstechnische Prüfungen und/oder Verbesserungen ist kostenlos und wird von dem Inhaber und/oder Entwickler garantiert.
 
-Verändern, anpassen, kopieren, ausschneiden und/oder wiederverwenden des geschriebenden Quellcodes (und allen anderen Dateien), ist untersagt! 
+Das Ändern, Anpassen, Kopieren, Ausschneiden und/oder Wiederverwenden des geschriebenen Quellcodes (und aller anderen Dateien) 
+zu anderen als den oben genannten Zwecken ist verboten! 
 Sofern nicht Schriftlich, durch einen Lizenzvertrages vom Inhaber und/oder Entwickler, abgeklärt und bestätigt.
 Einzelde Ausnahmen, müssen schriftlich mit Nachweis, besprochen und genemigt werden.
 
