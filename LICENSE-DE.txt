@@ -1,6 +1,6 @@
 ####################################################################
 ## ZOUPA - (ZombyMediaIC opensource usage protection agreement)   ##
-## Lizenz Stand: 12.06.2021 15:58 | #202006121558                 ##
+## Lizenz Stand: 17.11.2021 16:00 | #202111171600                 ##
 ## Niklas Vorberg (AsP3X)                                         ##
 ####################################################################
 
@@ -17,3 +17,6 @@ Alle Lizensierten Dateien, tragen einen Hinweis auf die Zugehörigkeit zu dieser
 Dateien welche älter, als das License update sind, fallen automatisch in die Rahmbedingungen dieser Lizenz.
 
 Quellcode oder auch "Codesnippets", welche von anderen Quellen stammen, sind dementsprechend makiert. Wiederverwendung und/oder weiteres, müssen mit dem Urheber und/oder Inhaber des Quellcodes abgeklärt werden.
+
+Dieses Programm wird OHNE JEGLICHE GARANTIE veröffentlicht, auch ohne die stillschweigende Garantie der
+HANDELSÜBLICHE QUALITÄT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
