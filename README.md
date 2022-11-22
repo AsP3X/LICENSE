@@ -2,7 +2,7 @@ New License for all Projects and Filetypes
 ```
 ####################################################################
 ## ZOUPA - (ZombyMediaIC open source usage protection agreement)  ##
-## License as of: 17.11.2021 16:00 | #202111171600                ##
+## License as of: 22.11.2022 17:15 | #202211221715                ##
 ## Niklas Vorberg (AsP3X)                                         ##
 ####################################################################
 ```
