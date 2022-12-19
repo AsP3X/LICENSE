@@ -1,22 +1,27 @@
-####################################################################
-## ZOUPA - (ZombyMediaIC opensource usage protection agreement)   ##
-## Lizenz Stand: 22.11.2022 17:15 | #202211221715                 ##
-## Niklas Vorberg (AsP3X)                                         ##
-####################################################################
+###################################################################
+## ZOUPA - ZombyMediaIC Open Source Usage Protection Agreement   ##
+## December 19, 2022 at 19:00 (UTC+0) | #202212191900            ##
+## By Niklas Vorberg (AsP3X)                                     ##
+###################################################################
 
-Das Nutzen, des Quellcodes (und allen anderen Dateien), für sicherheitstechnische Prüfungen und/oder Verbesserungen ist kostenlos und wird von dem Inhaber und/oder Entwickler garantiert.
+Diese Lizenzvereinbarung ("Vereinbarung") gewährt Ihnen das Recht, den von dem Eigentümer und/oder Entwickler bereitgestellten Quellcode (und alle anderen Dateien) 
+("Lizensierte Dateien") zu Sicherheitsprüfungen und/oder Verbesserungen kostenlos zu verwenden.
 
-Das Ändern, Anpassen, Kopieren, Ausschneiden und/oder Wiederverwenden des geschriebenen Quellcodes (und aller anderen Dateien) 
-zu anderen als den oben genannten Zwecken ist verboten! 
-Sofern nicht Schriftlich, durch einen Lizenzvertrages vom Inhaber und/oder Entwickler, abgeklärt und bestätigt.
-Einzelde Ausnahmen, müssen schriftlich mit Nachweis, besprochen und genemigt werden.
+Es ist Ihnen untersagt, die Lizensierten Dateien zu ändern, anzupassen, 
+zu kopieren, zu schneiden und/oder für Zwecke außerhalb von Sicherheitsprüfungen und/oder Verbesserungen wiederverwenden, 
+es sei denn, der Eigentümer und/oder Entwickler hat dies ausdrücklich schriftlich genehmigt. 
+Ausnahmen von diesem Verbot müssen schriftlich besprochen und genehmigt werden, mit Nachweis.
 
-Der Inhaber und/oder Entwickler hat das Recht, den Lizenzvertrag wenn nicht anders abgeklärt schriftlich als ungültig zu erklären (Änderungen und/oder Aktualisierungen, treten nach 12 Stunden, nach der Änderung in Kraft).
+Der Eigentümer und/oder Entwickler behält sich das Recht vor, 
+diese Vereinbarung jederzeit schriftlich für ungültig zu erklären, 
+wobei Änderungen und/oder Aktualisierungen 12 Stunden nach der Änderung in Kraft treten.
 
-Alle Lizensierten Dateien, tragen einen Hinweis auf die Zugehörigkeit zu dieser Lizenz in der Kopfzeile.
-Dateien welche älter, als das License update sind, fallen automatisch in die Rahmbedingungen dieser Lizenz.
+Alle Lizensierten Dateien enthalten eine Mitteilung im Kopf, die besagt, 
+dass sie von dieser Vereinbarung geschützt sind. Alle vor dem Update erstellten Dateien, 
+das diesen Kopf hinzugefügt hat, fallen automatisch unter die Bedingungen dieser Vereinbarung.
 
-Quellcode oder auch "Codesnippets", welche von anderen Quellen stammen, sind dementsprechend makiert. Wiederverwendung und/oder weiteres, müssen mit dem Urheber und/oder Inhaber des Quellcodes abgeklärt werden.
+Jeder in den Lizensierten Dateien enthaltene Quellcode oder Codeausschnitte von anderen Quellen werden deutlich gekennzeichnet und angemessen zugeschrieben. 
+Jegliche Wiederverwendung oder weitere Verwendung solchen Codes muss mit dem Autor und/oder Eigentümer des Quellcodes geklärt werden.
 
-Dieses Programm wird OHNE JEGLICHE GARANTIE veröffentlicht, auch ohne die stillschweigende Garantie der
-HANDELSÜBLICHE QUALITÄT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+Dieses Programm wird ohne jegliche Gewährleistung veröffentlicht, 
+einschließlich der stillschweigenden Gewährleistungen der Marktfähigkeit oder der Eignung für einen bestimmten Zweck.
